@@ -1,0 +1,474 @@
+canonical_identifier: bkk:krp/KR3ej008/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej008/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 兒科醒
+  identifiers:
+    krp: KR3ej008
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej008.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej008_000-jc.yaml, hash: 'sha256:d22239a02ebcce9a5f3be221ae9e973050f672c41a15335a05ba1a7fa9f67ffa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej008_000-jc.markers.yaml, hash: 'sha256:6b24987d6b7a8857bb031495bbfa56cb3c476b3f4a1118ebf6e132726b0e7b11'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 569
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 127
+  label: 題辭
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d4.h1s1
+    span:
+    - body
+    - 127
+    - 660
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d5.h1s1
+    span:
+    - body
+    - 660
+    - 1471
+  label: 總論第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d6.h1s1
+    span:
+    - body
+    - 1471
+    - 1935
+  label: 診治法論第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d7.h1s1
+    span:
+    - body
+    - 1935
+    - 2657
+  label: 表論第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d7d4
+    span:
+    - body
+    - 2473
+    - 2657
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d8.h1s1
+    span:
+    - body
+    - 2657
+    - 3264
+  label: 里論第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d8d4
+    span:
+    - body
+    - 3136
+    - 3264
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d9.h1s1
+    span:
+    - body
+    - 3264
+    - 5163
+  label: 寒論第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d9d10
+    span:
+    - body
+    - 4025
+    - 5163
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d10.h1s1
+    span:
+    - body
+    - 5163
+    - 6803
+  label: 熱論第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d10d4
+    span:
+    - body
+    - 5905
+    - 6803
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d11.h1s1
+    span:
+    - body
+    - 6803
+    - 7459
+  label: 虛論第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d11d4
+    span:
+    - body
+    - 7121
+    - 7459
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d12.h1s1
+    span:
+    - body
+    - 7459
+    - 9114
+  label: 實論第八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d12d4
+    span:
+    - body
+    - 8107
+    - 9114
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13.h1s1
+    span:
+    - body
+    - 9114
+    - 16376
+  label: 辨驚風之誤論第九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d4
+    span:
+    - body
+    - 9535
+    - 9677
+  label: 大驚猝恐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d5
+    span:
+    - body
+    - 9677
+    - 9901
+  label: 因驚嚇而致肝心二臟木火俱病者
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d6
+    span:
+    - body
+    - 9901
+    - 10336
+  label: 虛寒敗症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d7
+    span:
+    - body
+    - 10336
+    - 10534
+  label: 傷風發搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d8
+    span:
+    - body
+    - 10534
+    - 10621
+  label: 傷食發搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d9
+    span:
+    - body
+    - 10621
+    - 11130
+  label: 潮熱發搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d10
+    span:
+    - body
+    - 11130
+    - 11418
+  label: 將見痘疹發搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d11
+    span:
+    - body
+    - 11418
+    - 11955
+  label: 太陽病變痙
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d12
+    span:
+    - body
+    - 11955
+    - 12145
+  label: 天釣內釣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d13
+    span:
+    - body
+    - 12145
+    - 12908
+  label: 癇症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d13d14
+    span:
+    - body
+    - 12908
+    - 16376
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d14.h1s1
+    span:
+    - body
+    - 16376
+    - 17213
+  label: 不可餓論第十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15.h1s1
+    span:
+    - body
+    - 17213
+    - 25864
+  label: 治痘論第十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d4
+    span:
+    - body
+    - 17497
+    - 17778
+  label: 表虛見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d5
+    span:
+    - body
+    - 17778
+    - 18058
+  label: 表實見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d6
+    span:
+    - body
+    - 18058
+    - 18147
+  label: 表寒見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d7
+    span:
+    - body
+    - 18147
+    - 18301
+  label: 表熱見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d8
+    span:
+    - body
+    - 18301
+    - 18523
+  label: 裡虛見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d9
+    span:
+    - body
+    - 18523
+    - 18721
+  label: 裡實見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d10
+    span:
+    - body
+    - 18721
+    - 19010
+  label: 裡寒見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d11
+    span:
+    - body
+    - 19010
+    - 19357
+  label: 裡熱見證主治之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d12
+    span:
+    - body
+    - 19357
+    - 19810
+  label: 順逆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d13
+    span:
+    - body
+    - 19810
+    - 20835
+  label: 戒妄汗妄下
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d14
+    span:
+    - body
+    - 20835
+    - 21190
+  label: 痘後
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d15
+    span:
+    - body
+    - 21190
+    - 22375
+  label: 附種痘說
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d15d16
+    span:
+    - body
+    - 22375
+    - 25864
+  label: 闢穢香方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej008_jc_000-d16.h1s1
+    span:
+    - body
+    - 25864
+    - 27832
+  label: 治疹論第十二
+  type: section
+  level: 1
+hash: sha256:6641ddf18e8a51c48ea564c45d20ba03fdb26bfcab2e9b957e101907749afed5
