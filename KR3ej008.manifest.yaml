@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej008_000.yaml, hash: 'sha256:5d67bb555d5ada4fb1d3d32c007e32413ecbb879b22a11d61754aed3c1795a5f'}
+  - {seq: 0, filename: KR3ej008_000.yaml, hash: 'sha256:d22239a02ebcce9a5f3be221ae9e973050f672c41a15335a05ba1a7fa9f67ffa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej008_000.markers.yaml, hash: 'sha256:90190abfa292ebbc29fceec65fe6a27d62c993df42a9b67ddcf70ea6c0829744'}
+  - {seq: 0, role: markers, filename: assets/KR3ej008_000.markers.yaml, hash: 'sha256:25adc861a61f1b9fe57092536a43c04395be5e9f6d472bb2b063cdfa1dfb717d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -471,7 +471,4 @@ table_of_contents:
   label: 治疹論第十二
   type: section
   level: 1
-hash: sha256:c0122c42b280395af32c3c834d451741b986b7e58f13a7193a8bd677844bd411
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d9135064ca8a969e252310aab965062ba57cd897ff7442999cdba7daa950ddee
