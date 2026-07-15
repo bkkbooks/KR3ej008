@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej008/v1
 canonical_location: https://kanripo.org/bkk/KR3ej008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 兒科醒
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej008_000.yaml, hash: 'sha256:d22239a02ebcce9a5f3be221ae9e973050f672c41a15335a05ba1a7fa9f67ffa'}
+  - {seq: 0, filename: KR3ej008_000.yaml, hash: 'sha256:4aabff49f4b32d22aa05a547239f162b6e9fde223e9e9ecbfd8e37491e7824aa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej008_000.markers.yaml, hash: 'sha256:25adc861a61f1b9fe57092536a43c04395be5e9f6d472bb2b063cdfa1dfb717d'}
+  - {seq: 0, role: markers, filename: assets/KR3ej008_000.markers.yaml, hash: 'sha256:a5756423cc157a00b806913fa9f898e619a2ce397453bf8f1324872e9c9e7d2e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -471,4 +471,7 @@ table_of_contents:
   label: 治疹論第十二
   type: section
   level: 1
-hash: sha256:d9135064ca8a969e252310aab965062ba57cd897ff7442999cdba7daa950ddee
+hash: sha256:d546c465e7af05e5e582c7459d50a4f88247101d4ff88812f079309a4f4632c4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
