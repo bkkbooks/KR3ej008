@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej008_000-jc.yaml, hash: 'sha256:d22239a02ebcce9a5f3be221ae9e973050f672c41a15335a05ba1a7fa9f67ffa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej008_000-jc.markers.yaml, hash: 'sha256:6b24987d6b7a8857bb031495bbfa56cb3c476b3f4a1118ebf6e132726b0e7b11'}
+  - {seq: 0, role: markers, filename: assets/KR3ej008_000-jc.markers.yaml, hash: 'sha256:f139dc89a545dd358b0fc6c5d423472ad3a4deb18b0eecadf0e4ce97c17736b5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -471,4 +471,4 @@ table_of_contents:
   label: 治疹論第十二
   type: section
   level: 1
-hash: sha256:6641ddf18e8a51c48ea564c45d20ba03fdb26bfcab2e9b957e101907749afed5
+hash: sha256:a27bae7986e2d0127719b5ac89f94232662f58cfd2dd378e1343ed854c1d479c
